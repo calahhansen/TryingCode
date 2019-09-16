@@ -1,2 +1,0 @@
-# TryingCode
-Created with CodeSandbox
